@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# pretrain_vit.py — SwinT / ViT ImageNet-100 pretrain
-# 위치: /home/wj/seafog/src/pretrain_vit.py
-#
-# 사용법:
-#   python pretrain_vit.py --backbone swin --data_dir /data1/wj/seafog/data/imagenet100
-#   python pretrain_vit.py --backbone vit  --data_dir /data1/wj/seafog/data/imagenet100
 
 import argparse
 import json
