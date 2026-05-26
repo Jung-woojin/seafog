@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# pretrain.py — ImageNet-100 pretrain
-# 위치: /home/wj/seafog/src/pretrain.py
-#
-# 사용법:
-#   python pretrain.py --backbone convnext --mode base
-#   python pretrain.py --backbone convnext --mode typeA_7
 
 import argparse
 import json
